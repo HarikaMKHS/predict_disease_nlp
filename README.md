@@ -1,0 +1,1 @@
+I had devoloped a machine learning model in this project.The goal of this project is to predict the disease based on symptomps with the help of Natural Language Processing (NLP)techniques ,In which the input is given in the description format and that model is going to predict the disease accurately.
